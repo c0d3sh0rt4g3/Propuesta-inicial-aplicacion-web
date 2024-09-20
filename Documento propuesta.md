@@ -2,10 +2,10 @@
 
 ### Indice
 
-1. [Idea de la aplicacion](#idea)
-2. [Publico objetivo](#public)
-3. [Analisis de mercado](#market-analysis)
-4. [Funcionalidades clave](#key-functionalities)
+1. [Idea de la aplicacion](#idea-de-la-aplicacion)
+2. [Publico objetivo](#publico-objetivo)
+3. [Analisis de mercado](#analisis-de-mercado)
+4. [Funcionalidades clave](#funcionalidades-clave)
 
 ### Idea de la aplicacion
 
