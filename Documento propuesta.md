@@ -10,7 +10,7 @@
 
 ### Idea de la aplicación
 
-Growl es una aplicación de recetas que aparte de mostrar las recetas en sí, permite filtarlas por aspectos como los 
+Growl es una aplicación de recetas que, aparte de mostrar las recetas en sí, permite filtarlas por aspectos como los 
 alérgenos o los valores nutricionales de estos platos.
 
 ### Público objetivo
@@ -20,9 +20,12 @@ saludable controlando, por ejemplo, su ingesta de calorías en sus comidas.
 
 ### Análisis de mercado
 
-Actualmente, ya existen webs y aplicaciones que permiten buscar según los valores nutricionales de las recetas asi como 
-webs y aplicaciones que las filtran según los alérgenos, sin embargo, no existe ninguna web que permita filtrar ambos y 
-además, simultáneamente.
+Actualmente, ya existen webs y aplicaciones como [AllRecipes](https://www.allrecipes.com/) o 
+[The real food dietitians](https://therealfooddietitians.com/recipe-filter/) que permiten buscar según los valores 
+nutricionales de las recetas asi como webs y aplicaciones como [The allergy chef](https://raise.theallergychef.com/advanced-recipe-search/) 
+o [Allergy force](https://raise.theallergychef.com/advanced-recipe-search/) que las filtran según los alérgenos, 
+sin embargo, no existe ninguna web que permita filtrar ambos y además, simultáneamente sin necesidad de especificar 
+además un tipo de dieta en concreto.
 
 ### Funcionalidades clave
 
