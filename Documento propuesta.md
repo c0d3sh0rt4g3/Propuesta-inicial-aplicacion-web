@@ -2,23 +2,30 @@
 
 ### Indice
 
-1. [Idea de la aplicacion](#idea-de-la-aplicacion)
-2. [Publico objetivo](#publico-objetivo)
-3. [Analisis de mercado](#analisis-de-mercado)
+1. [Idea de la aplicación](#idea-de-la-aplicación)
+2. [Público objetivo](#público-objetivo)
+3. [Análisis de mercado](#análisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
 
-### Idea de la aplicacion
+### Idea de la aplicación
 
-Growl es una aplicacion de recetas que aparte de mostar la receta en si, permite filtarlas por aspectoscomo los alergenos o valores nutricionales.
+Growl es una aplicación de recetas que aparte de mostrar las recetas en sí, permite filtarlas por aspectos como los 
+alérgenos o los valores nutricionales de estos platos.
 
-### Publico objetivo
+### Público objetivo
 
-El publico objetivo de la aplicacion son personas que sufran algun tipo de alergia asi como personas que busquen comer saludable controlando, por ejemplo, su ingesta de calorias en sus comidas.
+El público objetivo de la aplicación son personas que tengan algún tipo de alergia asi como personas que busquen comer 
+saludable controlando, por ejemplo, su ingesta de calorías en sus comidas.
 
-### Analisis de mercado
+### Análisis de mercado
 
-Actualmente, ya existen webs y aplicaciones que permiten buscar segun los valores nutricionales de las recetas asi como webs y aplicaciones que las filtran segun los alergenos, sin embargo, no existe ninguna web que permita filtrar ambos y ademas, simultaneamente.
+Actualmente, ya existen webs y aplicaciones que permiten buscar según los valores nutricionales de las recetas asi como 
+webs y aplicaciones que las filtran según los alérgenos, sin embargo, no existe ninguna web que permita filtrar ambos y 
+además, simultáneamente.
 
 ### Funcionalidades clave
 
-La funcionalidad clave y principal de la aplicacion es el filtrado de recetas segun valores nutricionales y alergenos, ademas, la pagina permitira crearse una cuenta, esta cuenta nos permitira tener nuestras preferencias de alergenos en nuestro perfil, automarcandolos a la hora de buscar recetas, haciendo las busqueda mas comoda, a su vez, con la cuenta tambien se podran añadir recetas a favoritos con 1 solo click.
+La funcionalidad clave y principal de la aplicación es el filtrado de recetas segun valores nutricionales y alérgenos, 
+ademas, la página permitirá crearse una cuenta, esta cuenta nos permitirá tener nuestras alergias en nuestro perfil, 
+para que se marquen de manera automática a la hora de buscar recetas, haciendo las búsquedas más cómodas, a su vez, con 
+la cuenta también se podrán añadir recetas a favoritos con 1 solo click.
