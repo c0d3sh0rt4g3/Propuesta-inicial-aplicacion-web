@@ -1,6 +1,6 @@
 # Growl
 
-### Indice
+### Índice
 
 1. [Idea de la aplicación](#idea-de-la-aplicación)
 2. [Público objetivo](#público-objetivo)
