@@ -23,7 +23,7 @@ saludable controlando, por ejemplo, su ingesta de calorías en sus comidas.
 Actualmente, ya existen webs y aplicaciones como [AllRecipes](https://www.allrecipes.com/) o 
 [The real food dietitians](https://therealfooddietitians.com/recipe-filter/) que permiten buscar según los valores 
 nutricionales de las recetas asi como webs y aplicaciones como [The allergy chef](https://raise.theallergychef.com/advanced-recipe-search/) 
-o [Allergy force](https://raise.theallergychef.com/advanced-recipe-search/) que las filtran según los alérgenos, 
+o [Allergy force](https://www.allergyforce.com/) que las filtran según los alérgenos, 
 sin embargo, no existe ninguna web que permita filtrar ambos y además, simultáneamente sin necesidad de especificar 
 además un tipo de dieta en concreto.
 
