@@ -6,6 +6,7 @@
 2. [Público objetivo](#público-objetivo)
 3. [Análisis de mercado](#análisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
+5. [Tecnologías deleccionadas](#tecnologías-seleccionadas)
 
 ### Idea de la aplicación
 
@@ -29,3 +30,12 @@ La funcionalidad clave y principal de la aplicación es el filtrado de recetas s
 ademas, la página permitirá crearse una cuenta, esta cuenta nos permitirá tener nuestras alergias en nuestro perfil, 
 para que se marquen de manera automática a la hora de buscar recetas, haciendo las búsquedas más cómodas, a su vez, con 
 la cuenta también se podrán añadir recetas a favoritos con 1 solo click.
+
+### Tecnologías seleccionadas
+
+Como tecnologías a usar he decidido realizar la parte del cliente con react, puesto que es simple de utilizar, 
+es ligero y además su documentación es fácil de entender y bastante intuitiva, para el apartado del diseño, utilizaré 
+Sass puesto que ofrece mas facilidades que CSS a la hora de trabajar en un proyecto, ofreciendo funcionalidades como los 
+mixings, las variables y la herencia, por último, para la parte del servidor he decidido utilizar Springboot puesto que 
+considero que usando este framework, aspectos como la gestión de la base de datos de los usuarios, podrían ser realizados
+de manera eficaz sin llegar a cargar la aplicación en exceso.
