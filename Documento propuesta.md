@@ -6,7 +6,7 @@
 2. [Público objetivo](#público-objetivo)
 3. [Análisis de mercado](#análisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
-5. [Tecnologías deleccionadas](#tecnologías-seleccionadas)
+5. [Tecnologías seleccionadas](#tecnologías-seleccionadas)
 
 ### Idea de la aplicación
 
