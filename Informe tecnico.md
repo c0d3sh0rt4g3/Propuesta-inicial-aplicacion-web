@@ -6,6 +6,7 @@
 2. [Evaluación lenguajes de programación web utilizados](#evaluación-lenguajes-de-programación-web-utilizados)
 3. [Problemas de compatibilidad entre navegadores](#problemas-de-compatibilidad-entre-navegadores)
 4. [Análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web](#análisis-de-los-mecanismos-de-integración-de-los-lenguajes-de-marcas-con-los-lenguajes-de-programación-de-clientes-web)
+5. [Evaluación de herramientas de programación para clientes web](#evaluación-de-herramientas-de-programación-para-clientes-web)
 
 ### Análisis modelos de ejecución cliente/servidor
 
@@ -43,14 +44,14 @@ almacena los datos de los usuarios, los productos, las transacciones y los pedid
 
 **Tabla comparativa resumen de los 2 modelos:**
 
-|                         |             1 capa (1 tier)             |              2 capas (2 tier)              |                         3 capas (3 tier)                        |
+|                         |             1 capa (1 tier)             |              2 capas (2 tier)              |                        3 capas (3 tier)                         |
 |:-----------------------:|:---------------------------------------:|:------------------------------------------:|:---------------------------------------------------------------:|
-|        Dificultad       |                   Baja                  |                    Baja                    |                              Media                              |
-|      Escalabilidad      |               Muy limitada              |                  Limitada                  |                             Moderada                            |
-|      Mantenimiento      |   Dificil debido a la logica acoplada   |         Centralizado en el servidor        | Facil(cada capa se puede mantener de manera independientemente) |
-|         Latencia        | Baja ya que todo ocurre de manera local |    Baja debido a la comunicacion directa   |                             Moderada                            |
-|           Uso           |      Aplicaciones pequeñas/locales      | Aplicaciones de negocios pequeñas/medianas |                  Aplicaciones Web empresariales                 |
-| Coste de implementacion |         Bajo puesto que es local        |                    Medio                   |            alto ya que requiere mayor infraestructura           |
+|       Dificultad        |                  Baja                   |                    Baja                    |                              Media                              |
+|      Escalabilidad      |              Muy limitada               |                  Limitada                  |                            Moderada                             |
+|      Mantenimiento      |   Dificil debido a la logica acoplada   |        Centralizado en el servidor         | Facil(cada capa se puede mantener de manera independientemente) |
+|        Latencia         | Baja ya que todo ocurre de manera local |   Baja debido a la comunicacion directa    |                            Moderada                             |
+|           Uso           |      Aplicaciones pequeñas/locales      | Aplicaciones de negocios pequeñas/medianas |                 Aplicaciones Web empresariales                  |
+| Coste de implementacion |        Bajo puesto que es local         |                   Medio                    |           alto ya que requiere mayor infraestructura            |
 
 ### Evaluación lenguajes de programación web utilizados
 He decidido utilizar **Javascript con React** para mi propuesta debido a su caracter modular, ya que al usar componentes,
@@ -107,6 +108,12 @@ Aunque ya no es tan popular como hace años, jquery también facilita la integra
 la selección y manipulación de elementos de este sin pasa por el **DOM nativo**, además facilita la gestión de eventos y 
 la creación de animaciones y efectos.
 
+### Evaluación de herramientas de programación para clientes web
+Hoy en día existen bastantes herramientas para la programación de clientes web, algunas de ellas son:
+
+**VSCode**<br>
+Es un editor de código ligero y muy extensible con soporte para multitud de lenguajes y tecnologias e integracion con 
+herramientas de control de versiones, además tiene una interfaz muy intuitiva y muy personalizable
 
 ### Bibliografía
 [What is Client-Server arquitecture?](https://intellipaat.com/blog/what-is-client-server-architecture/#no6)<br>
@@ -114,4 +121,5 @@ la creación de animaciones y efectos.
 [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)<br>
 [Arquitectura Cliente/Servidor: modelo de 3 capas](https://iberasync.es/arquitectura-cliente-servidor-modelo-de-3-capas/)<br>
 [Advantages and Disadvantages of React JS](https://medium.com/@reactmasters.in/advantages-and-disadvantages-of-react-js-e6c80b25763b)<br>
-[Formas de evitar los problemas de compatibilidad multi navegador](https://comparium.app/es/blog/cross-browser-compatibility-issues/)
+[Formas de evitar los problemas de compatibilidad multi navegador](https://comparium.app/es/blog/cross-browser-compatibility-issues/)<br>
+[Comparing the technical strengths, weaknesses and use cases of the most popular JS frameworks and libraries](https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/)
