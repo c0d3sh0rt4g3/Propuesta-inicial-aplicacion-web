@@ -5,12 +5,13 @@
 1. [Análisis modelos de ejecución cliente/servidor](#análisis-modelos-de-ejecución-clienteservidor)
 2. [Evaluación lenguajes de programación web utilizados](#evaluación-lenguajes-de-programación-web-utilizados)
 3. [Problemas de compatibilidad entre navegadores](#problemas-de-compatibilidad-entre-navegadores)
+4. [Análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web](#análisis-de-los-mecanismos-de-integración-de-los-lenguajes-de-marcas-con-los-lenguajes-de-programación-de-clientes-web)
 
 ### Análisis modelos de ejecución cliente/servidor
 
 El modelo cliente/servidor consiste en dos entidades: el cliente y el servidor. Siendo el cliente el que realiza 
 solicitudes, mientras que el servidor se encarga de responder a estas solicitudes y proporcionar recursos o servicios,
-existen 3 arquitecturas comunes dentro del modelo cliente/servidor:<br>
+existen 3 arquitecturas comunes dentro del modelo cliente/servidor:<br><br>
 **Modelo cliente/servidor de 1 capa (1 tier)** <br>
 Es una arquitectura donde todos los componentes necesarios para que funcione la aplicación se encuentran en la misma capa,
 por lo que tanto la interfaz de usuario como la lógica de negocio y el acceso a datos se almacenan de manera local, puesto
@@ -60,21 +61,35 @@ esto me obligará a mantener la aplicación al día con las nuevas herramientas 
 
 ### Problemas de compatibilidad entre navegadores
 Los problemas de compatibilidad que me puedo llegar a encontrar entre navegadores son los siguientes:
-<br>
+
 **Validación de HTML y CSS**<br>
 Puesto que cada navegador lee y gestiona de forma diferente el codigo que lee, por ejemplo, los pequeños errores que un
 navegador puede que solucione automaticamente, llevandonos a que, en el navegador donde no se solvente solo este error, 
 no se muestre la página tal y como se busca, para evitar este problema, la mejor decision que podemos tomar es utilizar 
-validadores de CSS como **Jigsaw CSS Validator**.<br>
+validadores de CSS como **Jigsaw CSS Validator**.
+
 **Falta de resets CSS**<br>
 Cada navegador tiene sus propios presets de CSS y por tanto puede que algunos elementos que no se hayan modificado puesto
 que no suponian un problema en el navegador donde se desarrolló, en otro navegador se muestren distintos, la solución
-para este problema es usar una hoja de reset de estilos, sobreescribiendo asi los valores default de cada navegador.<br>
+para este problema es usar una hoja de reset de estilos, sobreescribiendo asi los valores default de cada navegador.
+
 **Problemas con JavaScript**<br>
 Al utilizar funciones mordernas de Javascriot, es posible que en no todos los navegadores funcionen, debido a que la 
 version de ECMAScript que utiliza cada navegador no tiene por qué ser la misma en todos, para evitar estos problemas,
 lo que podemos hacer es, antes de usar un método novedoso, buscarlo en [Can I use...](https://caniuse.com/) para consultar
-la compatibilidad de este.<br>
+la compatibilidad de este.
+
+### Análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web
+Algunos de los mecanismos de integración de lenguajes de marcas con lenguajes de programacion son:
+
+**El DOM (Document Object Model)**<br>
+Es una interfaz de programación que representa la estructura de un domuento HMTL o XML como un árbol de elementos, a 
+través del DOM, los lenguajes de programacion con Javascript pueden interactuar directamente con los elementos del documento
+y modificarlos sin necesidad de recargar la página además, aparte de elementos, Javascript puede también gestionar eventos 
+como clicks.
+
+
+
 ### Bibliografía
 [What is Client-Server arquitecture?](https://intellipaat.com/blog/what-is-client-server-architecture/#no6)<br>
 [Todo sobre la arquitectura cliente-servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)<br>
