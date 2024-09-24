@@ -88,6 +88,24 @@ través del DOM, los lenguajes de programacion con Javascript pueden interactuar
 y modificarlos sin necesidad de recargar la página además, aparte de elementos, Javascript puede también gestionar eventos 
 como clicks.
 
+**Frameworks**<br>
+Hay multitud de Frameworks y librerías que facilitan la integración de los lenguajes de marcas con los lenguajes de 
+programación, como por ejemplo:
+
+**React**<br>
+Facilita la integración gracias a su **DOM virtual**, ya que permite que la manipulacón del DOM sea más eficiente, además, 
+como react utiliza **JSX**, esto le permite escribir HTML dentro de Javascript, haciendo que la programación sea más
+fluida.
+
+**Vue**<br>
+Como pasa con **React**, la manera de gestionarse mediante componentes de Vue facilita la interaccion entre el HTML y el 
+Javascript, además los cambios en el modelo se muestran en el DOM y cualquier cambio en la interfaz de usuario también 
+puede actualizar el modelo, por último, vue también utiliza plantillas que le permiten mezclar Javascript con HTML. 
+
+**JQuery**<br>
+Aunque ya no es tan popular como hace años, jquery también facilita la integración ya que simplifica el DOM, facilitando 
+la selección y manipulación de elementos de este sin pasa por el **DOM nativo**, además facilita la gestión de eventos y 
+la creación de animaciones y efectos.
 
 
 ### Bibliografía
