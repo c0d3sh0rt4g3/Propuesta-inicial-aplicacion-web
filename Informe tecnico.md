@@ -7,6 +7,7 @@
 3. [Problemas de compatibilidad entre navegadores](#problemas-de-compatibilidad-entre-navegadores)
 4. [Análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web](#análisis-de-los-mecanismos-de-integración-de-los-lenguajes-de-marcas-con-los-lenguajes-de-programación-de-clientes-web)
 5. [Evaluación de herramientas de programación para clientes web](#evaluación-de-herramientas-de-programación-para-clientes-web)
+6. [Análisis de mercado](#análisis-de-mercado)
 
 ### Análisis modelos de ejecución cliente/servidor
 
@@ -133,6 +134,13 @@ Es un gestor de paquetes para Javascript, este ofrece un gran ecosistema de libr
 que permiten agilizar el proceso de desarrollo, esta herramienta ofrece un plan gratis con acceso ilimitado a paquetes
 públicos aunque también existen planes de pago que ofrecen funcionalidades extra como paquetes privados ilimitados y 
 control de acceso basado en roles.
+
+### Análisis de mercado
+Como ya comenté en el documento de propuesta, actualmente ya existen webs y aplicaciones como [AllRecipes](https://www.allrecipes.com/) 
+o [The real food dietitians](https://therealfooddietitians.com/recipe-filter/) que permiten buscar según los valores nutricionales de las recetas asi como webs y 
+aplicaciones como [The allergy chef](https://raise.theallergychef.com/advanced-recipe-search/) o [Allergy force](https://www.allergyforce.com/) que las filtran según los 
+alérgenos, sin embargo, no existe ninguna web que permita filtrar ambos y además simultáneamente sin necesidad de 
+especificar además un tipo de dieta en concreto.
 
 ### Bibliografía
 [What is Client-Server arquitecture?](https://intellipaat.com/blog/what-is-client-server-architecture/#no6)<br>
