@@ -131,8 +131,8 @@ programar nativos dentro del mismo Github.
 **Node package manager**<br>
 Es un gestor de paquetes para Javascript, este ofrece un gran ecosistema de librerias y herramientas de código abierto 
 que permiten agilizar el proceso de desarrollo, esta herramienta ofrece un plan gratis con acceso ilimitado a paquetes
-públicos aunque también existen planes de pago que ofrecen funcionalidades extra como alertas de vulnerabilidad, control
-de acceso basado en roles o alamcenamiwnto privado para paquetes npm.
+públicos aunque también existen planes de pago que ofrecen funcionalidades extra como paquetes privados ilimitados y 
+control de acceso basado en roles.
 
 ### Bibliografía
 [What is Client-Server arquitecture?](https://intellipaat.com/blog/what-is-client-server-architecture/#no6)<br>
@@ -143,3 +143,4 @@ de acceso basado en roles o alamcenamiwnto privado para paquetes npm.
 [Formas de evitar los problemas de compatibilidad multi navegador](https://comparium.app/es/blog/cross-browser-compatibility-issues/)<br>
 [Comparing the technical strengths, weaknesses and use cases of the most popular JS frameworks and libraries](https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/)<br>
 [10 best Web development tools to optimize your workflow](https://www.intelivita.com/au/blog/web-development-tools/)
+[NPM pricing](https://www.npmjs.com/products)
