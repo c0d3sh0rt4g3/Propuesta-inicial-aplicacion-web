@@ -115,6 +115,25 @@ Hoy en día existen bastantes herramientas para la programación de clientes web
 Es un editor de código ligero y muy extensible con soporte para multitud de lenguajes y tecnologias e integracion con 
 herramientas de control de versiones, además tiene una interfaz muy intuitiva y muy personalizable
 
+**Chrome Dev Tools**<br>
+Son un conjunto de herramientas para el desarrollo web y el debugeo que vienen integradas en Google Chrome,  estas 
+herramientas nos permiten **debugear Javascript, manipular CSS y analizar el rendimiento de nuestra web**, todo esto en el 
+entorno del navegador además incluye herramientas para controlar las peticiones **HTTP**, ver la actividad web  y 
+optimizar la carga de recursos, gracias a esto, podemos identificar los recursos uqe cargan lento, minimizar la latencia
+y mejorar el rendimiento general de nuestra web.
+
+**Github**<br>
+Es una plataforma que nos permite almacenar, gestionar y colaborar en proyectos de software utilizando **Git**, Github
+nos ofrece funciones como **pull requests** y **revisiones de código** al colaborar con otros desarrolladores además, 
+Github ofrece todo esto gratis, aunque tiene planes de pago en los que dispones de mas funciones como, espacios para 
+programar nativos dentro del mismo Github.
+
+**Node package manager**<br>
+Es un gestor de paquetes para Javascript, este ofrece un gran ecosistema de librerias y herramientas de código abierto 
+que permiten agilizar el proceso de desarrollo, esta herramienta ofrece un plan gratis con acceso ilimitado a paquetes
+públicos aunque también existen planes de pago que ofrecen funcionalidades extra como alertas de vulnerabilidad, control
+de acceso basado en roles o alamcenamiwnto privado para paquetes npm.
+
 ### Bibliografía
 [What is Client-Server arquitecture?](https://intellipaat.com/blog/what-is-client-server-architecture/#no6)<br>
 [Todo sobre la arquitectura cliente-servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)<br>
@@ -122,4 +141,5 @@ herramientas de control de versiones, además tiene una interfaz muy intuitiva y
 [Arquitectura Cliente/Servidor: modelo de 3 capas](https://iberasync.es/arquitectura-cliente-servidor-modelo-de-3-capas/)<br>
 [Advantages and Disadvantages of React JS](https://medium.com/@reactmasters.in/advantages-and-disadvantages-of-react-js-e6c80b25763b)<br>
 [Formas de evitar los problemas de compatibilidad multi navegador](https://comparium.app/es/blog/cross-browser-compatibility-issues/)<br>
-[Comparing the technical strengths, weaknesses and use cases of the most popular JS frameworks and libraries](https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/)
+[Comparing the technical strengths, weaknesses and use cases of the most popular JS frameworks and libraries](https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/)<br>
+[10 best Web development tools to optimize your workflow](https://www.intelivita.com/au/blog/web-development-tools/)
