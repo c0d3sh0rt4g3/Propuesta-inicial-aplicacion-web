@@ -150,5 +150,5 @@ especificar además un tipo de dieta en concreto.
 [Advantages and Disadvantages of React JS](https://medium.com/@reactmasters.in/advantages-and-disadvantages-of-react-js-e6c80b25763b)<br>
 [Formas de evitar los problemas de compatibilidad multi navegador](https://comparium.app/es/blog/cross-browser-compatibility-issues/)<br>
 [Comparing the technical strengths, weaknesses and use cases of the most popular JS frameworks and libraries](https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/)<br>
-[10 best Web development tools to optimize your workflow](https://www.intelivita.com/au/blog/web-development-tools/)
+[10 best Web development tools to optimize your workflow](https://www.intelivita.com/au/blog/web-development-tools/)<br>
 [NPM pricing](https://www.npmjs.com/products)
